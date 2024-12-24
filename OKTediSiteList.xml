@@ -1,0 +1,11 @@
+<site-list version="1">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>12/24/2024 04:59:56</date-created>
+  </created-by>
+  <site url="newotmlhome/Pages/Home.aspx">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+</site-list>
